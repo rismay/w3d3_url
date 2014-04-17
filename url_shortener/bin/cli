@@ -1,4 +1,3 @@
-
 def visit_short_url(user_object)
   puts "Type in your shortened url"
   short_url = gets.chomp
